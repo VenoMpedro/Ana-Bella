@@ -1,0 +1,5 @@
+	ANA BELLA project foi centralizada com margim padrão
+	*{
+	margin: 0px auto; 
+	}
+	usando esses parametros . {auto} foi utilizado para centralizar todo conteudo;
